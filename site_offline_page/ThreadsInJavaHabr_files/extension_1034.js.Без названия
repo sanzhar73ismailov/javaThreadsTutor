@@ -1,0 +1,1 @@
+if("object"==typeof adcm){try{adcm.callpixel(4025)}catch(e){}try{adcm.callpixel(6437)}catch(e){}!function(){try{adcm.callpixel(6418),adcm.callpixel(6417),adcm.callpixel(6416),adcm.callpixel(6415)}catch(a){}}()}
